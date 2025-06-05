@@ -1,0 +1,3 @@
+[submodule "arceos"]
+	path = arceos
+	url = git@github.com:langqiuyi-77/arceos.git
